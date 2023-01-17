@@ -47,6 +47,8 @@ RAZA, M., Jayasinghe, N.D. and Muslam, M.M.A. (2021). A Comprehensive Review on 
 
 Singh, U. et al. (2022). Spam Email Assessment Using Machine Learning and Data Mining Approach. 2022 Fifth International Conference on Computational Intelligence and Communication Technologies (CCICT). July 2022. 350–357. Available from https://doi.org/10.1109/CCiCT56684.2022.00070.
 
+Metsis, Vangelis, Androutsopoulos, Ion, Paliouras Georgios (2006). Spam Filtering with Naive Bayes -- Which Naive Bayes?
+
 
 
 
