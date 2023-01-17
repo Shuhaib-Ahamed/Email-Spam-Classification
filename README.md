@@ -30,7 +30,7 @@ In conclusion, the literature review has provided an overview of the various AI 
 
 # Comparion on ROC Curves
 
-![ROC Curves]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Shuhaib-Ahamed/Email-Spam-Classification/master/results/roc_curves.png?token=GHSAT0AAAAAABZQYY2OMFQ4IDBFNGKIEI3MY6G5XUQ))
+![ROC Curves]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://raw.githubusercontent.com/Shuhaib-Ahamed/Email-Spam-Classification/master/results/roc_curves.png?token=GHSAT0AAAAAABZQYY2OMFQ4IDBFNGKIEI3MY6G5XUQ)
 
 
 # References
